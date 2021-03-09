@@ -1,0 +1,5 @@
+package com.bookapphib.connections;
+
+public class HibSessionFactory {
+
+}

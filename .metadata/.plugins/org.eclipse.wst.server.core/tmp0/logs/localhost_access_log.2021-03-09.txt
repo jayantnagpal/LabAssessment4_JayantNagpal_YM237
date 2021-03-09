@@ -1,0 +1,6 @@
+127.0.0.1 - - [09/Mar/2021:18:04:26 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Mar/2021:18:04:28 +0530] "GET /custapphib/ HTTP/1.1" 200 1306
+0:0:0:0:0:0:0:1 - - [09/Mar/2021:18:04:28 +0530] "GET /custapphib/bootstrap/css/bootstrap.css HTTP/1.1" 200 178152
+0:0:0:0:0:0:0:1 - - [09/Mar/2021:18:04:28 +0530] "GET /custapphib/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 144877
+0:0:0:0:0:0:0:1 - - [09/Mar/2021:18:04:36 +0530] "POST /custapphib/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Mar/2021:18:04:36 +0530] "GET /custapphib/login HTTP/1.1" 200 1306

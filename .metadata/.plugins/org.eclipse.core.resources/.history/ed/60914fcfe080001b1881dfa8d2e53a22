@@ -1,0 +1,6 @@
+package com.bookapphib.model.exceptions;
+
+public class DataAccessException extends RuntimeException {
+	
+
+}

@@ -1,0 +1,6 @@
+package com.bookapphib.model.dao;
+
+public class BookDaoImpl implements BookDao {
+	
+
+}
